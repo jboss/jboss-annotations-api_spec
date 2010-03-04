@@ -1,30 +1,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  
   <parent>
     <groupId>org.jboss.spec</groupId>
     <artifactId>jboss-specs-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
+  
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jboss.spec.javax.annotation</groupId>
   <artifactId>jboss-annotations-api_1.1_spec</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Common Annotations 1.1 API</name>
-  <url>http://www.jboss.org</url>
   <description>The Common Annotations 1.1 API classes</description>
-  <reporting>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-javadoc-plugin</artifactId>
-        <configuration>
-          <doctitle>Expression Language ${project.version} API Documentation</doctitle>
-          <links>
-            <link>http://java.sun.com/j2se/1.5/docs/api</link>
-          </links>
-          <windowtitle>Expression Language ${project.version} API Documentation</windowtitle>
-        </configuration>
-      </plugin>
-    </plugins>
-  </reporting>
+  
 </project>
