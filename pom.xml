@@ -9,15 +9,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jboss.spec.javax.annotation</groupId>
   <artifactId>jboss-annotations-api_1.1_spec</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0.Beta2</version>
   <packaging>jar</packaging>
   <name>Common Annotations 1.1 API</name>
   <description>The Common Annotations 1.1 API classes</description>
   
   <scm>
-    <connection>scm:svn:http://anonsvn.jboss.org/repos/jbossas/projects/specs/trunk/jboss-annotations-api_1.1_spec</connection>
-    <developerConnection>scm:svn:https://svn.jboss.org/repos/jbossas/projects/specs/trunk/jboss-annotations-api_1.1_spec</developerConnection>
-    <url>http://fisheye.jboss.org/browse/JBossAS/projects/specs/trunk/jboss-annotations-api_1.1_spec</url>
+    <connection>scm:svn:http://anonsvn.jboss.org/repos/jbossas/projects/specs/tags/jboss-annotations-api_1.1_spec-1.0.0.Beta2</connection>
+    <developerConnection>scm:svn:https://svn.jboss.org/repos/jbossas/projects/specs/tags/jboss-annotations-api_1.1_spec-1.0.0.Beta2</developerConnection>
+    <url>http://fisheye.jboss.org/browse/JBossAS/projects/specs/tags/jboss-annotations-api_1.1_spec-1.0.0.Beta2</url>
   </scm>
   
 </project>
