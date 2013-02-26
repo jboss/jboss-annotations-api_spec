@@ -10,11 +10,11 @@
   </parent>
 
   <groupId>org.jboss.spec.javax.annotation</groupId>
-  <artifactId>jboss-annotations-api_1.1_spec</artifactId>
-  <version>1.0.2.Final-SNAPSHOT</version>
+  <artifactId>jboss-annotations-api_1.2_spec</artifactId>
+  <version>1.0.0.Final-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Common Annotations 1.1 API</name>
+  <name>Common Annotations 1.2 API</name>
   <description>JSR 250: Common Annotations for the Java(TM) Platform</description>
 
   <licenses>
@@ -82,10 +82,10 @@
           <instructions>
             <Specification-Title>JSR 250: Common Annotations for the Java(TM) Platform</Specification-Title>
             <Specification-Vendor>Oracle</Specification-Vendor>
-            <Specification-Version>1.1</Specification-Version>
+            <Specification-Version>1.2</Specification-Version>
             <!-- Set the package version to match the spec version -->
             <Export-Package>
-              javax.annotation*;version=1.1
+              javax.annotation*;version=1.2
             </Export-Package>
           </instructions>
         </configuration>
@@ -109,7 +109,7 @@
             <manifestEntries>
               <Specification-Title>JSR 250: Common Annotations for the Java(TM) Platform</Specification-Title>
               <Specification-Vendor>Oracle</Specification-Vendor>
-              <Specification-Version>1.1</Specification-Version>
+              <Specification-Version>1.2</Specification-Version>
             </manifestEntries>
           </archive>
         </configuration>
