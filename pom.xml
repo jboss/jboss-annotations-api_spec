@@ -19,8 +19,13 @@
 
   <licenses>
     <license>
-      <name>CDDL or GPLv2 with exceptions</name>
-      <url>https://glassfish.dev.java.net/public/CDDL+GPL_1_1.html</url>
+      <name>Common Development And Distribution License 1.1</name>
+      <url>https://javaee.github.io/glassfish/LICENSE</url>
+      <distribution>repo</distribution>
+    </license>
+    <license>
+      <name>GNU General Public License v2.0 only, with Classpath exception</name>
+      <url>http://openjdk.java.net/legal/gplv2+ce.html</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
