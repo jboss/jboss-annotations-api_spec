@@ -88,6 +88,9 @@
             <manifest>
               <addDefaultSpecificationEntries>false</addDefaultSpecificationEntries>
             </manifest>
+            <manifestEntries>
+              <Automatic-Module-Name>beta.jboss.annotation.api_1_2</Automatic-Module-Name>
+            </manifestEntries>
           </archive>
           <instructions>
             <Specification-Title>JSR 250: Common Annotations for the Java(TM) Platform</Specification-Title>
