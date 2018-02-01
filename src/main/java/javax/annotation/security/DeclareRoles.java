@@ -31,8 +31,9 @@ import static java.lang.annotation.ElementType.*;
 import static java.lang.annotation.RetentionPolicy.*;
 
 /**
- * Used by application to declare roles. It can be 
- * specified on a class. 
+ * Used by application to declare security roles. It can be 
+ * specified on a class. The value of the <code>DeclareRoles</code>
+ * annotation is a list of security role names.
  *
  * @since Common Annotations 1.0
  */
