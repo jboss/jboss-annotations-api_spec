@@ -89,7 +89,7 @@
               <addDefaultSpecificationEntries>false</addDefaultSpecificationEntries>
             </manifest>
             <manifestEntries>
-              <Automatic-Module-Name>beta.jboss.annotation.api_1_2</Automatic-Module-Name>
+              <Automatic-Module-Name>java.annotation</Automatic-Module-Name>
             </manifestEntries>
           </archive>
           <instructions>
